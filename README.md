@@ -1,8 +1,10 @@
 # [Ultimate DevOps Real-World Project Implementation AWS Cloud - 55+ Hands-On Demos](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
+[![Image](images/ultimate-aws-devops2.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+
+
 [![Image](images/ultimate-aws-devops1.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
-[![Image](images/ultimate-aws-devops2.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 ## [Course Details](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 - **Title:** [Ultimate DevOps Real-World Project Implementation AWS Cloud](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
