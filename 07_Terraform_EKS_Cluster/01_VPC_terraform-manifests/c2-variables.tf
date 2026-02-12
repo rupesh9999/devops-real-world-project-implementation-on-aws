@@ -1,7 +1,7 @@
 variable "aws_region" {
   description = "AWS region to deploy resources"
   type        = string
-  default     = "us-east-1"
+  default     = "us-east-2"
 }
 
 variable "environment_name" {
@@ -19,7 +19,7 @@ variable "vpc_cidr" {
 variable "tags" {
   description = "Global tags to apply to all resources"
   type        = map(string)
-  default     = {
+  default = {
     Terraform = "true"
   }
 }

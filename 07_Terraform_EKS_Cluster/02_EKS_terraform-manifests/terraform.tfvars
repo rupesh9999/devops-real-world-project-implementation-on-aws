@@ -1,5 +1,5 @@
 # AWS Region and Environment
-aws_region        = "us-east-1"
+aws_region        = "us-east-2"
 environment_name  = "dev"
 business_division = "retail"
 
