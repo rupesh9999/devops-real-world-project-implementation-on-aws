@@ -12,7 +12,7 @@ terraform {
 
   # Remote backend configuration using S3 
   backend "s3" {
-    bucket       = "tfstate-dev-us-east-2-jpjtoc"
+    bucket       = "tfstate-dev-us-east-2-jpjtos"
     key          = "eks/dev/terraform.tfstate"
     region       = "us-east-2"
     encrypt      = true
