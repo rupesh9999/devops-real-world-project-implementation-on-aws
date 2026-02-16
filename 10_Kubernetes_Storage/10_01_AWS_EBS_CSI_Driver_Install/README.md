@@ -96,7 +96,7 @@ aws eks create-pod-identity-association \
   --cluster-name ${EKS_CLUSTER_NAME} \
   --namespace kube-system \
   --service-account ebs-csi-controller-sa \
-  --role-arn arn:aws:iam::${AWS_ACCOUNT_ID}:role/AmazonEKS_EBS_CSI_DriverRole_${EKS_CLUSTER_NAME}
+  --role-arn arn:aws:iam::${AWS_ACCOUNT_ID}:role/AmazonEKS_EBS_CSI_DriverRole_${EKS_CLUSTER_NAME} --region us-east-2
 ```
 
 ✅ This binds the IAM role to the `ebs-csi-controller-sa` ServiceAccount
