@@ -1,24 +1,36 @@
-# [Ultimate DevOps Real-World Project Implementation AWS Cloud - 55+ Hands-On Demos](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+# [Ultimate DevOps Real-World Project Implementation AWS Cloud - 55+ Hands-On Demos](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
-[![Image](images/ultimate-aws-devops1.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
-
----
-
-[![Image](images/ultimate-aws-devops2.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+[![100-Day Milestone](images/100-day-milestone.png "100-Day Milestone: 4,772+ Students, 1 Million+ Minutes of Learning")](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 ---
 
-## [What are we going to learn?](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+### What Students Are Building
+- Production EKS Clusters with Terraform
+- Karpenter Autoscaling (70% AWS Cost Savings)
+- CI/CD with GitHub Actions + ArgoCD GitOps
+- OpenTelemetry Observability (Metrics, Logs, Traces)
+- Helm Deployments for 5 Microservices
+- AWS Services Integration (RDS, DynamoDB, ElastiCache, SQS)
+
+### Coming Soon (Free Updates)
+- **Section 22:** Gateway API (Kubernetes-native ingress, the future of routing)
+- **Section 23:** Istio Service Mesh (traffic management, mTLS, observability)
+
+> **[Enroll Now](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)** | 21 Sections | 55+ Demos | 4.72 Star Rating
+
+---
+
+## [What are we going to learn?](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 ![What are we going to learn?](./images//00_00_DevOps_Course_Introduction.png)
 
 ---
-## [Course Details](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
-- **Title:** [Ultimate DevOps Real-World Project Implementation AWS Cloud](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [Course Details](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
+- **Title:** [Ultimate DevOps Real-World Project Implementation AWS Cloud](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 - **Sub Title:** ALL-IN-ONE: DevOps Implementation - Docker, Kubernetes (AWS EKS), Terraform, CI/CD (GitHub Actions, ArgoCD), Helm, OTEL
 - **Demos:** 55+ Hands-On Practical Demonstrations
 
 ---
-## [Course Architecture Diagrams](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [Course Architecture Diagrams](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 All course concepts are explained with **interactive diagrams** (no PowerPoint slides). You can access them at below link
 
@@ -30,7 +42,7 @@ All course concepts are explained with **interactive diagrams** (no PowerPoint s
 
 ---
 
-## [Course CICD Section-21 GitHub Repo](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [Course CICD Section-21 GitHub Repo](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 Section-21 is a **DevOps CICD** section which has a dedicated repo for implementing GitOps Pipeline. The below is the link for that GitHub Repository
 
@@ -42,7 +54,7 @@ Section-21 is a **DevOps CICD** section which has a dedicated repo for implement
 
 
 ---
-## [Course Modules - 55+ Hands-On Demos](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [Course Modules - 55+ Hands-On Demos](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 ### **Section 1: Project Overview**
 **Module-01:** Complete Retail Store Microservices Architecture
@@ -314,7 +326,7 @@ Section-21 is a **DevOps CICD** section which has a dedicated repo for implement
 
 ---
 
-## [DevOps Technologies & Tools Covered](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [DevOps Technologies & Tools Covered](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 ### **1. Docker & Containerization**
    - Docker installation, commands, and lifecycle management
@@ -391,7 +403,7 @@ Section-21 is a **DevOps CICD** section which has a dedicated repo for implement
 
 ---
 
-## [What will students learn in your course?](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [What will students learn in your course?](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 ### **🎯 Course Overview**
 
@@ -645,7 +657,7 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-## [What are the requirements or prerequisites for taking your course?](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [What are the requirements or prerequisites for taking your course?](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 ### **Required Prerequisites:**
 - **AWS Account:** Active AWS account with permissions to create resources (EKS, VPC, RDS, EC2, etc.). Free tier works for initial modules.
@@ -689,7 +701,7 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-## [Who is this course for?](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [Who is this course for?](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 
 ### **Perfect For:**
 - **DevOps Engineers** wanting to master modern tools (Docker, Kubernetes, Terraform, CI/CD) on AWS
@@ -729,13 +741,13 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-## [GitHub Repository](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [GitHub Repository](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 - **Main Repository:** [devops-real-world-project-implementation-on-aws](https://github.com/stacksimplify/devops-real-world-project-implementation-on-aws)
 - **Important:** Please FORK this repository to follow along and make your own changes during the course
 
 ---
 
-## [Each of my courses comes with](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+## [Each of my courses comes with](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)
 - ✅ **55+ Hands-On Practical Demos** - Step-by-step implementations
 - ✅ **Real-World Project** - Production-grade retail store microservices
 - ✅ **Architecture Diagrams** - Visual explanations for every concept
@@ -749,59 +761,54 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-## My Other AWS Courses
+## My Other Courses (383,000+ Students, 20 Courses)
 
-### [AWS EKS - Elastic Kubernetes Service - Masterclass](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
+> All courses available at [stacksimplify.com/courses](https://stacksimplify.com/courses/)
 
-### [Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos](https://links.stacksimplify.com/terraform-on-aws-with-sre-and-iacdevops)
-[![Image](https://stacksimplify.com/course-images/terraform-on-aws-best-seller.png "Terraform on AWS with SRE & IaC DevOps")](https://links.stacksimplify.com/terraform-on-aws-with-sre-and-iacdevops)
+### AWS Courses
 
-### [Terraform on AWS EKS Kubernetes IaC SRE - 50 Real-World Demos](https://links.stacksimplify.com/terraform-on-aws-eks-kubernetes-iac-sre)
-[![Image](https://stacksimplify.com/course-images/terraform-on-aws-eks-kubernetes.png "Terraform on AWS EKS Kubernetes IaC SRE")](https://links.stacksimplify.com/terraform-on-aws-eks-kubernetes-iac-sre)
+| Course | Students | Rating |
+|--------|----------|--------|
+| [AWS EKS Kubernetes Masterclass](https://stacksimplify.com/courses/aws-eks-masterclass/) | 70,041+ | 4.6 (5,495 ratings) |
+| [AWS VPC Transit Gateway](https://stacksimplify.com/courses/aws-vpc-transit-gateway/) | 52,243+ | 4.6 (790 ratings) |
+| [Terraform on AWS with SRE and IaC DevOps](https://stacksimplify.com/courses/terraform-on-aws-sre/) | 31,006+ | 4.6 (3,347 ratings) |
+| [Terraform on AWS EKS Kubernetes IaC SRE](https://stacksimplify.com/courses/terraform-aws-eks/) | 26,929+ | 4.5 (2,238 ratings) |
+| [HashiCorp Certified: Terraform Associate (AWS)](https://stacksimplify.com/courses/hashicorp-terraform-associate-aws/) | 16,835+ | 4.6 (1,754 ratings) |
+| [AWS CloudFormation Simplified](https://stacksimplify.com/courses/aws-cloudformation/) | 16,223+ | 4.3 (1,469 ratings) |
+| [AWS Fargate and ECS Masterclass](https://stacksimplify.com/courses/aws-fargate-ecs/) | 15,208+ | 4.4 (1,051 ratings) |
+| [AWS CodePipeline CI/CD](https://stacksimplify.com/courses/aws-codepipeline/) | 9,832+ | 4.0 (966 ratings) |
+| [AWS Elastic Beanstalk Master Class](https://stacksimplify.com/courses/aws-elastic-beanstalk/) | 7,588+ | 4.3 (373 ratings) |
+| [Ultimate DevOps Real-World Project on AWS](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/) | 4,772+ | 4.72 (358 ratings) |
 
-### [HashiCorp Certified: Terraform Associate - 50 Practical Demos](https://links.stacksimplify.com/hashicorp-certified-terraform-associate)
-[![Image](https://stacksimplify.com/course-images/hashicorp-certified-terraform-associate-highest-rated.png "HashiCorp Certified: Terraform Associate")](https://links.stacksimplify.com/hashicorp-certified-terraform-associate)
+### Azure Courses
 
-### [Helm Masterclass: 50 Practical Demos for Kubernetes DevOps](https://links.stacksimplify.com/helm-masterclass-kubernetes-devops)
-[![Image](https://stacksimplify.com/course-images/helm-masterclass-kubernetes-devops.png "Helm Masterclass")](https://links.stacksimplify.com/helm-masterclass-kubernetes-devops)
+| Course | Students | Rating |
+|--------|----------|--------|
+| [Azure Kubernetes Service with Azure DevOps and Terraform](https://stacksimplify.com/courses/azure-aks-devops-terraform/) | 48,551+ | 4.6 (6,196 ratings) |
+| [Terraform on Azure with IaC DevOps SRE](https://stacksimplify.com/courses/terraform-on-azure/) | 17,918+ | 4.7 (1,911 ratings) |
+| [Azure HashiCorp Certified: Terraform Associate](https://stacksimplify.com/courses/hashicorp-terraform-associate-azure/) | 16,938+ | 4.5 (1,985 ratings) |
+| [Azure Kubernetes Service AGIC Ingress](https://stacksimplify.com/courses/azure-aks-agic/) | 2,012+ | 4.6 (112 ratings) |
 
-### [Docker in a Weekend: 40 Practical Demos for DevOps Learners](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
-[![Image](https://stacksimplify.com/course-images/docker-in-a-weekend.png "Docker in a Weekend")](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
+### GCP Courses
 
----
+| Course | Students | Rating |
+|--------|----------|--------|
+| [GCP Google Kubernetes Engine GKE with DevOps](https://stacksimplify.com/courses/gcp-gke-kubernetes/) | 8,769+ | 4.4 (779 ratings) |
+| [GCP Associate Cloud Engineer Certification](https://stacksimplify.com/courses/gcp-associate-cloud-engineer/) | 6,007+ | 4.6 (599 ratings) |
+| [GCP Terraform on Google Cloud](https://stacksimplify.com/courses/gcp-terraform/) | 2,600+ | 4.4 (213 ratings) |
+| [GCP GKE Terraform on Google Kubernetes Engine](https://stacksimplify.com/courses/gcp-gke-terraform/) | 2,040+ | 4.6 (155 ratings) |
 
-## My Azure Courses
+### DevOps and General
 
-### [Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
-
-### [Azure - HashiCorp Certified: Terraform Associate - 70 Demos](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
-[![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-highest-rated.png "Azure - HashiCorp Certified: Terraform Associate")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
-
-### [Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos](https://links.stacksimplify.com/terraform-on-azure-with-iac-devops-sre)
-[![Image](https://stacksimplify.com/course-images/terraform-on-azure-with-iac-azure-devops-sre-1.png "Terraform on Azure with IaC DevOps and SRE")](https://links.stacksimplify.com/terraform-on-azure-with-iac-devops-sre)
-
----
-
-## My GCP (Google Cloud) Courses
-
-### [GCP Google Kubernetes Engine GKE with DevOps - 75 Real-World Demos](https://links.stacksimplify.com/gcp-google-kubernetes-engine-gke-with-devops)
-[![Image](https://stacksimplify.com/course-images/gcp-gke-with-devops.png "GCP GKE with DevOps")](https://links.stacksimplify.com/gcp-google-kubernetes-engine-gke-with-devops)
-
-### [GCP Terraform on Google Cloud: DevOps SRE IaC - 30 Real-World Demos](https://links.stacksimplify.com/gcp-terraform-on-google-cloud-devops-sre-iac)
-[![Image](https://stacksimplify.com/course-images/gcp-terraform-devops-sre.png "GCP Terraform on Google Cloud")](https://links.stacksimplify.com/gcp-terraform-on-google-cloud-devops-sre-iac)
-
-### [GCP Associate Cloud Engineer Google Certification - 150 Demos](https://links.stacksimplify.com/gcp-associate-cloud-engineer-google-certification)
-[![Image](https://stacksimplify.com/course-images/gcp-ace.png "GCP Associate Cloud Engineer")](https://links.stacksimplify.com/gcp-associate-cloud-engineer-google-certification)
-
-### [GCP GKE Terraform on Google Kubernetes Engine DevOps SRE - 40 Demos](https://links.stacksimplify.com/gcp-gke-terraform-on-google-kubernetes-engine)
-[![Image](https://stacksimplify.com/course-images/gcp-gke-terraform.png "GCP GKE Terraform")](https://links.stacksimplify.com/gcp-gke-terraform-on-google-kubernetes-engine)
+| Course | Students | Rating |
+|--------|----------|--------|
+| [Helm Masterclass: 50 Practical Demos](https://stacksimplify.com/courses/helm-masterclass/) | 12,069+ | 4.7 (915 ratings) |
+| [Docker in a Weekend: 40 Practical Demos](https://stacksimplify.com/courses/docker-weekend/) | 3,802+ | 4.6 (361 ratings) |
 
 ---
 
-## Stack Simplify Udemy Profile
-- [Udemy Profile - Kalyan Reddy](https://www.udemy.com/user/kalyan-reddy-9/)
+## Instructor Profile
+- [Kalyan Reddy Daida - StackSimplify](https://stacksimplify.com/about/)
 
 ---
 
@@ -812,4 +819,4 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-**Ready to master DevOps on AWS? [Enroll now!](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)** 🚀
+**Ready to master DevOps on AWS? [Enroll now!](https://stacksimplify.com/courses/ultimate-devops-real-world-project-on-aws/)** 🚀
